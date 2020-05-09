@@ -33,4 +33,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 ## License
+Any liscense that isn't covered under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 is under the GPL license.
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faustinmccalley%2Funbrainy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faustinmccalley%2Funbrainy?ref=badge_large)
